@@ -25,7 +25,7 @@
             android:layout_marginBottom="30dp"/>
         <Button
             android:layout_width="match_parent"
-            android:layout_height="60"
+            android:layout_height="60dp"
             android:background="@color/colorPrimaryDark"
             android:text="LOGIN"
             android:textColor="#fff"
